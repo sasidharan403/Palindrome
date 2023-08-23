@@ -24,7 +24,7 @@ Print the input and reversed string along with the whether palindrom or not.
 End of the Program.
 ## Program:
 ```
-Developed By: Anand sasidharan
+Developed By: A.sasidharan
 Register Number: 212221240049
 ```
 ```C#
